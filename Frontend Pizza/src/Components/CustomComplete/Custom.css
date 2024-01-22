@@ -1,0 +1,22 @@
+.head{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.foot img{
+    width: 200px;
+    height: 200px;
+}
+.addb{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+    background-color: brown;
+    border-radius: 5px;
+    border: 2px solid darkred;
+    position: absolute;
+    right: 40px;
+    margin: 10px;
+}

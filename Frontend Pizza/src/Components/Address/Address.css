@@ -1,0 +1,42 @@
+.address-form{
+    text-align: center;
+    /* display: inline-block; */
+    /* border-left: 2px solid lightskyblue;
+    border-right: 2px solid #87cefa;
+    border-left-width: 6px;
+    border-right-width: 6px;
+    position: relative;
+    left: 400px; */
+}
+.address-form h1{
+    color: hotpink;
+}
+.address-form input{
+    width: 400px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid lightskyblue;
+    border-radius: 20px;
+    font-size: medium;
+}
+.address-form textarea{
+    font-size: medium;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid lightskyblue;
+    border-radius: 20px;
+}
+.address-form button{
+    padding: 10px;
+    margin: 5px;
+    border: 4px double hotpink;
+    font-size: medium;
+    font-weight: bold;
+    color: darkturquoise;
+    border-radius: 10px;
+}
+.address-form button i{
+    font-size: x-large;
+    margin: 4px;
+    color: darkturquoise;
+}

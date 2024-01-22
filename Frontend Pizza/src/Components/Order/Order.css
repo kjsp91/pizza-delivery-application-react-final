@@ -1,0 +1,44 @@
+.conform{
+    text-align: center;
+    margin: 0%;
+    color: lightgreen;
+}
+.conform b{
+    font-size: 40px;
+}
+.ttable{
+    position: relative;
+    left: 330px;
+    display: inline-block;
+}
+table,tr,td{
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 0px 40px;
+    margin: 20px;
+    margin-bottom: 0%;
+    position: relative;
+}
+table h3{
+    margin: 0px;
+    color: rgb(224, 91, 162);
+}
+table td p{
+    font-size: large;
+    font-weight: bold;
+    color: lightblue;
+}
+table td p div{
+    color: lightblue;
+}
+.ttable button{
+    padding: 10px;
+    font-size: medium;
+    font-weight: bold;
+    margin: 10px;
+    position: relative;
+    left: 400px;
+    border-radius: 10px;
+    background-color: green;
+    border: 2px solid darkgreen;
+}

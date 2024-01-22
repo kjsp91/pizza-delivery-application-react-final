@@ -1,0 +1,35 @@
+.card{
+    display: inline-block;
+    border: 2px solid  black;
+    margin: 10px;
+    text-align: center;
+    width: 280px;
+    height: 400px;
+    background-color: #1e1e22;
+}
+.card h2,.card p{
+    background-color: #1e1e22;
+    color: white;
+}
+.card img{
+    width: 280px;
+    height: 169px;
+}
+.card button{
+    padding: 10px;
+    background-color: #819d7d;
+    font-weight: bold;
+    position: relative;
+    right: 20px;
+}
+.card h3{
+    color: #cdd17c;
+    display: inline-block;
+    position: relative;
+    right: 60px;
+    margin: 0%;
+    background-color: #1e1e22;
+}
+.links{
+    background-color: #1e1e22;
+}

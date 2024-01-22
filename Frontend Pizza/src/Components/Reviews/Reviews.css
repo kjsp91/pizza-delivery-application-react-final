@@ -1,0 +1,64 @@
+.review{
+    color: white;
+    border: 2px solid lightcoral;
+    padding: 10px 28px;
+    margin: 15px;
+    display: inline-flex;
+    justify-content: space-between;
+    /* border-left-width: 20px; */
+    border-radius: 20px;
+}
+.review .filled{
+    color: #f90;
+    font-size: 40px;
+    margin: 0px;
+}
+.rhead{
+    color: plum;
+    display: inline-block;
+    margin: 28px ;
+}
+.post{
+    padding: 10px 15px;
+    border: 2px solid rgb(0, 160, 0);
+    background-color:darkgreen;
+    font-weight: bolder;
+    border-radius: 10px;
+    margin: 0px 15px;
+}
+.parent{
+   text-align: center;
+}
+.one{
+    margin-right: 28px;
+}
+.review img{
+    width: 180px;
+    height: 180px;
+    float: right;
+    border-radius: 10px;
+
+}
+.description{
+    width: 440px;
+}
+.two{
+   display: flex;
+   flex-direction: column;
+   justify-content: center; 
+}
+.one h3{
+    text-align: right;
+}
+.child button{
+    padding: 10px;
+    color: palevioletred;
+    border: 1px groove palevioletred;
+    margin: 0px 10px;
+    font-weight: bold;
+}
+.child button:hover{
+    background-color: palevioletred;
+    color: darkred;
+    font-weight: bolder;
+}
